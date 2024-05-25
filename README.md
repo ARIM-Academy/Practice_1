@@ -16,7 +16,6 @@ MOESM5_ESM data setは、ペンシルバニア州立大学Robert T. Mathers教�
 
 また、各ポリマーの油状または撥水性を連続的に定量化するために、疎水性と呼ばれる概念を検討されています。
 
-![altメインイメージ](./img/image.png)
 
 ---
 [1] Kyungjun Min, Joseph D. Cuiffi & Robert T. Mathers　"Ranking environmental degradation trends of plastic marine debris based on physical properties　and molecular structure", NATURE COMMUNICATIONS. 11, Article number: 727 (2020) https://www.nature.com/articles/s41467-020-14538-z
